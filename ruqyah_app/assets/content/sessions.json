@@ -1,0 +1,77 @@
+[
+  {
+    "id": "morning-protection",
+    "title": { "en": "Morning Protection", "ar": "حماية الصباح", "ms": "Perlindungan Pagi" },
+    "description": {
+      "en": "A short authentic routine to begin the day under Allah's protection.",
+      "ar": "روتين قصير صحيح لبدء اليوم في حفظ الله.",
+      "ms": "Rutin ringkas yang sahih untuk memulakan hari dalam perlindungan Allah."
+    },
+    "icon": "sun",
+    "isPremium": false,
+    "steps": [
+      { "duaId": "ayat-al-kursi", "repeat": 1 },
+      { "duaId": "al-ikhlas", "repeat": 3 },
+      { "duaId": "al-falaq", "repeat": 3 },
+      { "duaId": "an-nas", "repeat": 3 }
+    ]
+  },
+  {
+    "id": "before-sleep",
+    "title": { "en": "Before Sleep", "ar": "قبل النوم", "ms": "Sebelum Tidur" },
+    "description": {
+      "en": "Recitations the Prophet recommended before sleeping.",
+      "ar": "أذكار وردت عن النبي قبل النوم.",
+      "ms": "Bacaan yang dianjurkan Nabi sebelum tidur."
+    },
+    "icon": "moon",
+    "isPremium": false,
+    "steps": [
+      { "duaId": "ayat-al-kursi", "repeat": 1 },
+      { "duaId": "al-ikhlas", "repeat": 1 },
+      { "duaId": "al-falaq", "repeat": 1 },
+      { "duaId": "an-nas", "repeat": 1 },
+      { "duaId": "al-baqarah-285-286", "repeat": 1 },
+      { "duaId": "sleep-dua-1", "repeat": 1 }
+    ]
+  },
+  {
+    "id": "self-ruqyah-illness",
+    "title": { "en": "Self-Ruqyah for Illness", "ar": "رقية ذاتية للمرض", "ms": "Ruqyah Sendiri untuk Penyakit" },
+    "description": {
+      "en": "Recite over yourself for healing, following the Sunnah.",
+      "ar": "اقرأ على نفسك طلبًا للشفاء اتباعًا للسنة.",
+      "ms": "Bacakan ke atas diri sendiri untuk penyembuhan mengikut Sunnah."
+    },
+    "icon": "heart",
+    "isPremium": false,
+    "steps": [
+      { "duaId": "al-fatihah", "repeat": 1 },
+      { "duaId": "ayat-al-kursi", "repeat": 1 },
+      { "duaId": "al-ikhlas", "repeat": 3 },
+      { "duaId": "al-falaq", "repeat": 3 },
+      { "duaId": "an-nas", "repeat": 3 },
+      { "duaId": "healing-dua-1", "repeat": 3 }
+    ]
+  },
+  {
+    "id": "against-sihr-evil-eye",
+    "title": { "en": "Against Sihr & Evil Eye", "ar": "ضد السحر والعين", "ms": "Menentang Sihir & Ain" },
+    "description": {
+      "en": "An extended routine focused on protection from magic and envy.",
+      "ar": "روتين موسّع للحماية من السحر والحسد.",
+      "ms": "Rutin lanjutan untuk perlindungan dari sihir dan hasad."
+    },
+    "icon": "shield",
+    "isPremium": true,
+    "steps": [
+      { "duaId": "al-fatihah", "repeat": 1 },
+      { "duaId": "ayat-al-kursi", "repeat": 1 },
+      { "duaId": "al-baqarah-285-286", "repeat": 1 },
+      { "duaId": "al-ikhlas", "repeat": 3 },
+      { "duaId": "al-falaq", "repeat": 7 },
+      { "duaId": "an-nas", "repeat": 7 },
+      { "duaId": "healing-dua-1", "repeat": 3 }
+    ]
+  }
+]

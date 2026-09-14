@@ -1,0 +1,5 @@
+[
+  { "id": "default", "name": "Default Reciter", "style": "Murattal", "isPremium": false },
+  { "id": "reciter-hafs-a", "name": "Reciter A (Hafs)", "style": "Murattal", "isPremium": true },
+  { "id": "reciter-warsh-b", "name": "Reciter B (Warsh)", "style": "Murattal", "isPremium": true }
+]

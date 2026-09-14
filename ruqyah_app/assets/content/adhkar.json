@@ -1,0 +1,62 @@
+[
+  {
+    "id": "adhkar-ayat-kursi",
+    "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ...",
+    "transliteration": "Allahu la ilaha illa huwal-hayyul-qayyum ...",
+    "translations": {
+      "en": "Ayat al-Kursi — whoever recites it in the morning is protected until evening.",
+      "ms": "Ayat al-Kursi — sesiapa membacanya pada waktu pagi dilindungi hingga petang."
+    },
+    "source": "Qur'an 2:255; al-Hakim, authenticated",
+    "repeat": 1,
+    "times": ["morning", "evening"]
+  },
+  {
+    "id": "adhkar-ikhlas-muawwidhatayn",
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ / قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ / قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "transliteration": "Qul huwallahu ahad / Qul a'udhu bi rabbil-falaq / Qul a'udhu bi rabbin-nas",
+    "translations": {
+      "en": "The three Quls, recited three times, suffice you against everything.",
+      "ms": "Tiga surah Qul, dibaca tiga kali, mencukupi kamu daripada segala sesuatu."
+    },
+    "source": "Abu Dawud 5082; at-Tirmidhi 3575, authenticated",
+    "repeat": 3,
+    "times": ["morning", "evening"]
+  },
+  {
+    "id": "adhkar-sayyidul-istighfar",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma anta rabbi la ilaha illa anta, khalaqtani wa ana 'abduk, wa ana 'ala 'ahdika wa wa'dika mastata't, a'udhu bika min sharri ma sana't, abu'u laka bi ni'matika 'alayya, wa abu'u bi dhanbi faghfir li fa innahu la yaghfirudh-dhunuba illa ant.",
+    "translations": {
+      "en": "The chief of seeking forgiveness. Whoever says it with conviction in the day and dies that day enters Paradise.",
+      "ms": "Penghulu istighfar. Sesiapa mengucapkannya dengan yakin pada siang hari lalu meninggal hari itu, masuk syurga."
+    },
+    "source": "Sahih al-Bukhari 6306",
+    "repeat": 1,
+    "times": ["morning", "evening"]
+  },
+  {
+    "id": "adhkar-hasbiyallah",
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliteration": "Hasbiyallahu la ilaha illa huwa, 'alayhi tawakkaltu wa huwa rabbul-'arshil-'azim.",
+    "translations": {
+      "en": "Allah is sufficient for me; there is no god but Him. Upon Him I rely, and He is the Lord of the Mighty Throne.",
+      "ms": "Cukuplah Allah bagiku; tiada Tuhan melainkan Dia. Kepada-Nya aku bertawakal, dan Dia Tuhan Arasy yang agung."
+    },
+    "source": "Abu Dawud 5081 (recited seven times)",
+    "repeat": 7,
+    "times": ["morning", "evening"]
+  },
+  {
+    "id": "adhkar-bismillah-protect",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa huwas-sami'ul-'alim.",
+    "translations": {
+      "en": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+      "ms": "Dengan nama Allah yang dengan nama-Nya tiada sesuatu pun di bumi mahupun di langit dapat membahayakan, dan Dia Maha Mendengar lagi Maha Mengetahui."
+    },
+    "source": "Abu Dawud 5088; at-Tirmidhi 3388 (recited three times)",
+    "repeat": 3,
+    "times": ["morning", "evening"]
+  }
+]
